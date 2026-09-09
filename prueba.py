@@ -1,7 +1,0 @@
-print("hola")
-
-x=5
-print(x)
-
-m = (x + 10) * 2
-print(m)
