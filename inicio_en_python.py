@@ -2,12 +2,12 @@
 #para hacer un print en pyton usamos "print()" ejemplo:
 print("Hola mundo") #esto se mostrará en la consola cuando ejecutamos el codigo/funcion
 #para dejar un comentario en varias lineas usamos """""" son 6 comillas en total
+
 """
 esto 
 es un 
-texto
+comentario
 """
-
 
 #Tambien tenemos los tipos de datos
 #Strings sosn cadenas de texto y se les llama tambien str ejemplo: "Hola mundo"
